@@ -1,0 +1,16 @@
+.count{
+    border: 2px solid red;
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+}
+
+
+.button{
+    margin-top: 50px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
