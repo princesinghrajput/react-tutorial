@@ -1,0 +1,67 @@
+.input-addon {
+    accent-color: #8f9b37;
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border-color: #ccc;
+  }
+  
+  .edit-order-item-add-ons h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 5px;
+    display: block;
+    padding-top: 5px;
+  }
+  
+  .left-side-item label {
+    font-size: 15px;
+    color: #333;
+  }
+  
+  label.dot-check p {
+    font-size: 15px;
+    color: #333;
+  }
+  
+  .add-instruction-row span {
+    border: 1px solid #ccc;
+    padding: 3px 8px;
+    margin: 0 5px 5px 0;
+    display: inline-block;
+    background: #ebebeb;
+    font-size: 14px;
+  }
+  
+  .add-instruction-row {
+    padding-top: 10px;
+  }
+  
+  .add-instruction-row span.active {
+    background: #99a123;
+    color: #fff;
+    border-color: #99a123;
+  }
+  
+  .add-instruction-row textarea.form-control {
+    margin-top: 10px;
+    font-size: 14px;
+    box-shadow: none;
+    border-color: #ccc;
+  }
+  
+  .item-edit-overroll-info {
+    max-height: 70vh;
+    overflow: auto;
+  }
+  
+  h5.modal-title {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .right-side-item span {
+    padding-right: 10px;
+    font-size: 14px;
+  }
+  
